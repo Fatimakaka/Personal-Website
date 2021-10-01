@@ -577,8 +577,6 @@ p {
 }
 
 #about .about-descr .p-heading {
-  /* font-family: 'Playfair Display', serif; */
-  /* font-family:Verdana, Geneva, Tahoma, sans-serif; */
   font-family:'Times New Roman', Times, serif;
   font-size: 28px;
   text-align: left;
@@ -609,10 +607,7 @@ p {
   padding-top: 80px;
 }
 
-  /* #about .about-btn {
-    padding-top: 100px;
 
-  } */
 /* the work is here */
 @media screen and (max-width: 750px) and (min-width:730) {
 
@@ -1462,6 +1457,14 @@ blockquote {
     margin-bottom: 0;
 
   }
+/* here btn */
+  .btncont {
+    margin-top: 25px;
+  }
+  .btndownload {
+    margin-top: 25px;
+    margin-right: 20px;
+  }
 
   /* portfolio */
   #portfolio .portfolio-list .nav li {
@@ -1533,6 +1536,18 @@ blockquote {
     max-width: 100%;
     margin-bottom: 0;
   }
+
+  /* here btn */
+  .btncont {
+    margin-top: 25px;
+  }
+  .btndownload {
+    margin-top: 25px;
+    margin-right: 20px;
+  } 
+
+
+
   /* portfolio */
   #portfolio .portfolio-list .nav li {
     float: none;
