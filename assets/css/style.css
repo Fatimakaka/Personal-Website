@@ -1458,8 +1458,15 @@ blockquote {
 
   }
 /* here btn */
+
+/* #about-btn{
+  text-align: center;
+} */
+
   .btncont {
     margin-top: 25px;
+    margin-right: 20px;
+
   }
   .btndownload {
     margin-top: 25px;
@@ -1538,8 +1545,14 @@ blockquote {
   }
 
   /* here btn */
+  /* #about-btn{
+    text-align: center;
+  } */
+
+
   .btncont {
     margin-top: 25px;
+    margin-right: 20px;
   }
   .btndownload {
     margin-top: 25px;
